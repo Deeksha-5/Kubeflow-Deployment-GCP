@@ -1,0 +1,25 @@
+#Parent_ID of the organization or folder to attach the project to
+#Billing ID to" attach the product to.
+#Must have the roles to add Project to the Organization or folder and Billing account user role
+
+# Parent and & billing ID TO SET ONLY IF A NEW PROJECT NEEDS TO BE CREATED
+
+PARENT_TYPE : MY_PARENT_TYPE
+PARENT_ID : MY_PARENT_ID
+BILLING_ID : MY_BILLING_ID
+OWNER_EMAIL : MY_OWNER_EMAIL
+PROJECT_ID : MY_PROJECT_ID
+ZONE_NAME : MY_ZONE_NAME
+Ser_Name : MY_SERVICE_NAME
+key_bucket : MY_KEY_BUCKET
+data_bucket : MY_DATA_BUCKET
+KF_NAME : MY_KUBEFLOW_DEPLOYMENT_NAME
+KF_BASE_DIR : MY_KUBEFLOW_BASE_DIR
+KEY_FILE : MY_KEY_FILE
+DATA_FILE : MY_DATA_FILE
+#FOR PIPELINE
+EXP_NAME : MY_EXP_NAME
+RUN_NAME : MY_RUN_NAME
+PIPELINE_FILE : MY_PIPELINE_FILE
+CLIENT_ID : MY_CLIENT_ID
+CLIENT_SECRET : MY_CLIENT_SECRET
